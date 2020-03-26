@@ -1,1 +1,1 @@
-*** An Exchange rate claculator using an API to find current rates
+# An Exchange rate claculator using an API to find current rates
